@@ -44,7 +44,7 @@
       // @todo-show toast
     } catch (error) {
       console.log('Error fetching jobs', error);
-      toast.error('Job was not Added');
+      toast.error('Job not Added');
     } 
   };
 

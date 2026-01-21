@@ -85,20 +85,6 @@
       }
     },
     {
-      "id": "774c",
-      "type": "Full-Time",
-      "title": "Ayako Kaneko",
-      "description": "a",
-      "salary": "Under $50K",
-      "location": "s",
-      "company": {
-        "name": "d",
-        "description": "f",
-        "contactEmail": "ayako.kaneko1997@gmail.com",
-        "contactPhone": "0478626641"
-      }
-    },
-    {
       "id": "8494",
       "type": "Full-Time",
       "title": "Aquila Gonzales",
@@ -110,34 +96,6 @@
         "description": "Itaque quidem eum et",
         "contactEmail": "tiqavydul@mailinator.com",
         "contactPhone": "+1 (146) 558-8946"
-      }
-    },
-    {
-      "id": "1158",
-      "type": "Part-Time",
-      "title": "Grady Chaney",
-      "description": "Maiores magnam dicta",
-      "salary": "Over $200K",
-      "location": "Ea magna praesentium",
-      "company": {
-        "name": "Jensen and Rich Traders",
-        "description": "Est animi ut do dis",
-        "contactEmail": "capy@mailinator.com",
-        "contactPhone": "+1 (382) 733-9373"
-      }
-    },
-    {
-      "id": "9242",
-      "type": "Full-Time",
-      "title": "Gemma Mcneil",
-      "description": "Quisquam beatae qui ",
-      "salary": "$70K - $80K",
-      "location": "Illo irure et velit",
-      "company": {
-        "name": "Trevino Ramsey Plc",
-        "description": "Quaerat aut culpa in",
-        "contactEmail": "dijoqyh@mailinator.com",
-        "contactPhone": "+1 (311) 657-8747"
       }
     }
   ]
